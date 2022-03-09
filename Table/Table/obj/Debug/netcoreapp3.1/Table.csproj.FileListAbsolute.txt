@@ -1,0 +1,14 @@
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.exe
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.deps.json
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.json
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.dev.json
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.dll
+C:\Users\agunw\source\repos\Table\Table\bin\Debug\netcoreapp3.1\Table.pdb
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.csproj.AssemblyReference.cache
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfoInputs.cache
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfo.cs
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.csproj.CoreCompileInputs.cache
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.dll
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.pdb
+C:\Users\agunw\source\repos\Table\Table\obj\Debug\netcoreapp3.1\Table.genruntimeconfig.cache
